@@ -10,4 +10,3 @@
 - ⚡ Hobbies: Infinity Nikki, golf, jogging, film, music
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=YolandaRose)](https://github.com/YolandaRose/github-readme-stats)
-![Yolanda's GitHub stats](https://github-readme-stats.vercel.app/api?username=YolandaRose&show_icons=true&theme=dracula)
